@@ -1,0 +1,53 @@
+{
+  "animals": [
+    {
+      "id": 2,
+      "name": "Mr. Dog",
+      "breed": "Golden Retriever"
+    },
+    {
+      "name": "Sammy",
+      "breed": "Great Dane",
+      "id": 3
+    },
+    {
+      "name": "Jude",
+      "breed": "Golden Retriever ",
+      "id": 4
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Joseph"
+    },
+    {
+      "id": 2,
+      "name": "Annie"
+    },
+    {
+      "name": "Lisa",
+      "id": 3
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "France"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Greta"
+    },
+    {
+      "id": 2,
+      "name": "Sydney"
+    },
+    {
+      "name": "Mandy",
+      "id": 3
+    }
+  ]
+}
